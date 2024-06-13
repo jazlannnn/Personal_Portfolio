@@ -594,28 +594,28 @@ footer p:nth-child(2){
   
   @media (max-width: 768px) {
 	.hero {
-		width: 200%;
+		width: 300%;
 	  }
 	  .about{
-		  width: 200%;
+		  width: 300%;
 	  }
 	  .video{
-		width: 200%;
+		width: 300%;
 	  }
 	  .education{
-		  width: 200%;
+		  width: 300%;
 	  }
 	  .project{
-		  width: 200%;
+		  width: 300%;
 	  }
 	  .skills{
-		  width: 200%;
+		  width: 300%;
 	  }
 	  .contact{
-		  width: 200%;
+		  width: 300%;
 	  }
 	  footer{
-		  width: 200%;
+		  width: 300%;
 	  }
   }
   
